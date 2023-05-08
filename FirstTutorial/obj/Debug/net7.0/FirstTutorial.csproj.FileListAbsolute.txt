@@ -1,0 +1,15 @@
+C:\Tutorial\FirstTutorial\bin\Debug\net7.0\FirstTutorial.exe
+C:\Tutorial\FirstTutorial\bin\Debug\net7.0\FirstTutorial.deps.json
+C:\Tutorial\FirstTutorial\bin\Debug\net7.0\FirstTutorial.runtimeconfig.json
+C:\Tutorial\FirstTutorial\bin\Debug\net7.0\FirstTutorial.dll
+C:\Tutorial\FirstTutorial\bin\Debug\net7.0\FirstTutorial.pdb
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.csproj.AssemblyReference.cache
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.AssemblyInfoInputs.cache
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.AssemblyInfo.cs
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.csproj.CoreCompileInputs.cache
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.dll
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\refint\FirstTutorial.dll
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.pdb
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\FirstTutorial.genruntimeconfig.cache
+C:\Tutorial\FirstTutorial\obj\Debug\net7.0\ref\FirstTutorial.dll
