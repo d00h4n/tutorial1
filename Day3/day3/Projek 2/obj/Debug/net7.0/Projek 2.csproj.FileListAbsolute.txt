@@ -1,0 +1,15 @@
+C:\Tutorial\Day3\day3\Projek 2\bin\Debug\net7.0\Projek 2.exe
+C:\Tutorial\Day3\day3\Projek 2\bin\Debug\net7.0\Projek 2.deps.json
+C:\Tutorial\Day3\day3\Projek 2\bin\Debug\net7.0\Projek 2.runtimeconfig.json
+C:\Tutorial\Day3\day3\Projek 2\bin\Debug\net7.0\Projek 2.dll
+C:\Tutorial\Day3\day3\Projek 2\bin\Debug\net7.0\Projek 2.pdb
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.csproj.AssemblyReference.cache
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.AssemblyInfoInputs.cache
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.AssemblyInfo.cs
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.csproj.CoreCompileInputs.cache
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.dll
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\refint\Projek 2.dll
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.pdb
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\Projek 2.genruntimeconfig.cache
+C:\Tutorial\Day3\day3\Projek 2\obj\Debug\net7.0\ref\Projek 2.dll
