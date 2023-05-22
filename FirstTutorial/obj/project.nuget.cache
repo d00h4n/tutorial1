@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NagG/8npQegiJZGa6+fAK5H8g7WV679VsC7fkixWem4udd0nQZgkVZbVUD8GYGL8u6NZOMGmNmzaxfbZKhDRIg==",
+  "dgSpecHash": "yC9SKU6Ysyi8d2mJYOWarU52M1hxJ/BULDDHq2G00B3GL9nhrsMRE2YCDGZRLny+YKGLCGWV0i665kdxGHIBPw==",
   "success": true,
-  "projectFilePath": "C:\\Tutorial\\FirstTutorial\\FirstTutorial.csproj",
+  "projectFilePath": "c:\\Tutorial\\FirstTutorial\\FirstTutorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿namespace coba1
+namespace coba3
 {
   
 class Role  // Base class (parent) 
@@ -26,7 +26,7 @@ class Middle : Role
 }
 
 class Back : Role{
-    public override void roles() 
+    public new void roles() 
     {
         Console.WriteLine("Deffender");
     }
