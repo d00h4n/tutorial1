@@ -1,9 +1,9 @@
 public class Algoritma {
-    public int n;
+    public int x;
     public int a;
 
     public static void CheckNumber(int a, int n) {
-        for (int i = a; i <= n; i++) {
+        for (int i = a; i <= x; i++) {
 
             if (i % 3 == 0 && i % 5 == 0) {
                 Console.Write($"foobar, ");
