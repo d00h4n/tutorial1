@@ -1,0 +1,15 @@
+C:\Tutorial\Day8\bin\Debug\net7.0\Day8.exe
+C:\Tutorial\Day8\bin\Debug\net7.0\Day8.deps.json
+C:\Tutorial\Day8\bin\Debug\net7.0\Day8.runtimeconfig.json
+C:\Tutorial\Day8\bin\Debug\net7.0\Day8.dll
+C:\Tutorial\Day8\bin\Debug\net7.0\Day8.pdb
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.csproj.AssemblyReference.cache
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.AssemblyInfoInputs.cache
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.AssemblyInfo.cs
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.csproj.CoreCompileInputs.cache
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.dll
+C:\Tutorial\Day8\obj\Debug\net7.0\refint\Day8.dll
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.pdb
+C:\Tutorial\Day8\obj\Debug\net7.0\Day8.genruntimeconfig.cache
+C:\Tutorial\Day8\obj\Debug\net7.0\ref\Day8.dll

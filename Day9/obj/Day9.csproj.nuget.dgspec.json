@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Tutorial\\Day8\\Day8.csproj": {}
+    "c:\\Tutorial\\Day9\\Day9.csproj": {}
   },
   "projects": {
-    "c:\\Tutorial\\Day8\\Day8.csproj": {
+    "c:\\Tutorial\\Day9\\Day9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Tutorial\\Day8\\Day8.csproj",
-        "projectName": "Day8",
-        "projectPath": "c:\\Tutorial\\Day8\\Day8.csproj",
+        "projectUniqueName": "c:\\Tutorial\\Day9\\Day9.csproj",
+        "projectName": "Day9",
+        "projectPath": "c:\\Tutorial\\Day9\\Day9.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Tutorial\\Day8\\obj\\",
+        "outputPath": "c:\\Tutorial\\Day9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
