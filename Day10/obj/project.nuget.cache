@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "otBxexdnlWNnw0NY5ovt2XSah0G6T/bShd0ZMcSdDkEA54MUp5L1IDS97cIYM9nctf+PkEjk4WG9DQtHtvoWhg==",
+  "dgSpecHash": "St34EPl+D0jd2XWkWfjEIQhtWAUYHMKRtp2LonjWP1l0A96XBpNojQf8q5v5MMLq4DtXwCAXMTO6t1yVN6G8hw==",
   "success": true,
-  "projectFilePath": "C:\\Tutorial\\Day10\\Day10.csproj",
+  "projectFilePath": "c:\\Tutorial\\Day10\\Day10.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
