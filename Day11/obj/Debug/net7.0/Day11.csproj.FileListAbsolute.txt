@@ -1,0 +1,15 @@
+C:\Tutorial\Day11\bin\Debug\net7.0\Day11.exe
+C:\Tutorial\Day11\bin\Debug\net7.0\Day11.deps.json
+C:\Tutorial\Day11\bin\Debug\net7.0\Day11.runtimeconfig.json
+C:\Tutorial\Day11\bin\Debug\net7.0\Day11.dll
+C:\Tutorial\Day11\bin\Debug\net7.0\Day11.pdb
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.csproj.AssemblyReference.cache
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.AssemblyInfoInputs.cache
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.AssemblyInfo.cs
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.csproj.CoreCompileInputs.cache
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.dll
+C:\Tutorial\Day11\obj\Debug\net7.0\refint\Day11.dll
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.pdb
+C:\Tutorial\Day11\obj\Debug\net7.0\Day11.genruntimeconfig.cache
+C:\Tutorial\Day11\obj\Debug\net7.0\ref\Day11.dll
